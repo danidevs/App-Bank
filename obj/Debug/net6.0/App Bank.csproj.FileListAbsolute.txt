@@ -1,0 +1,15 @@
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\bin\Debug\net6.0\App Bank.exe
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\bin\Debug\net6.0\App Bank.deps.json
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\bin\Debug\net6.0\App Bank.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\bin\Debug\net6.0\App Bank.dll
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\bin\Debug\net6.0\App Bank.pdb
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\App Bank.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\App Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\App Bank.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\App Bank.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\App Bank.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\App Bank.dll
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\refint\App Bank.dll
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\App Bank.pdb
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\App Bank.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\App Bank\obj\Debug\net6.0\ref\App Bank.dll
